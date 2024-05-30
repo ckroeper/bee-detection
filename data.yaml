@@ -1,0 +1,9 @@
+train: split/train/images
+val: split/val/images
+
+names:
+  0: bee
+
+nc: 1
+nk: 2
+kpt_shape: [2, 2]
